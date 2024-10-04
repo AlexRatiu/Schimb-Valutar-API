@@ -1,0 +1,6 @@
+@Schimb_Valutar_API_HostAddress = http://localhost:5050
+
+GET {{Schimb_Valutar_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
